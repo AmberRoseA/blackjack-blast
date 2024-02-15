@@ -73,7 +73,7 @@ Note: Aces can be 1 or 11.
 
 ![winner_display_lose](assets/docs/dealerwins.png)
 
-![winner_display_tie](assets/d)
+![winner_display_tie](assets/docs/tied.png)
 
 ![winner_display_playerbust](assets/docs/youbustdealerwins.png)
 
